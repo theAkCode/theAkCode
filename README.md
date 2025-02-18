@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate full stack web developer.</h3>
 
-- 🌱 I’m currently learning **web development with the MERN stack and sharpening my problem-solving skills through Data Structures and Algorithms in Java.**
+- 🌱 I’m currently learning **web development using Next.js and sharpening my problem-solving skills through Data Structures and Algorithms in Java.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishek-kumar-20090b221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-kumar-20090b221/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek-kumar-20090b221/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-kumar-20090b221/" height="30" width="40" /></a>
 </p>
 
 
