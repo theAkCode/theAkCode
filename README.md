@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate full stack web developer.</h3>
 
-- 🌱 I’m currently learning **web development using Next.js and sharpening my problem-solving skills through Data Structures and Algorithms in Java.**
+- 🌱**I’m building expertise in full-stack web development and enhancing my problem-solving skills through Data Structures and Algorithms.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
