@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate full stack web developer.</h3>
+<h3 align="center">A passionate Full Stack Web Developer and Generative AI Enthusiast.</h3>
 
 - 🌱**I’m building expertise in full-stack web development and enhancing my problem-solving skills through Data Structures and Algorithms.**
 
